@@ -37,3 +37,9 @@ gulpはグローバルとローカルにインストールする必要がある�
 ~~~
 sudo npm install -g gulp
 ~~~
+### ローカルインストール
+~~~
+sudo npm install gulp --save  
+または、  
+sudo npm install gulp --save-dev
+~~~
